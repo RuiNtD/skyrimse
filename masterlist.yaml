@@ -1891,6 +1891,10 @@ plugins:
   - name: 'gildancientcivfull.esl'
     group: *verifiedCreationsGroup
 
+  # Animated Weapon Series - Mehrunes Razor
+  - name: 'animatedweapon-mehrunes'' razor.esl'
+    group: *verifiedCreationsGroup
+
   # Anise's Cabin - Claim a New Home
   - name: 'anisecabinplayerhome.esl'
     group: *verifiedCreationsGroup
@@ -1981,6 +1985,10 @@ plugins:
 
   # Longtooth Lair - Vampire Home
   - name: ceejsse004_lair.esp
+    group: *verifiedCreationsGroup
+
+  # Magenit - Genesis
+  - name: 'mgnt_launchself.esl'
     group: *verifiedCreationsGroup
 
   # Magenit - Somber Tune
